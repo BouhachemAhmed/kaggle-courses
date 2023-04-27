@@ -31,7 +31,6 @@
 ![Ahmed Bouhachem - Pandas](https://user-images.githubusercontent.com/61451186/234987393-3895c553-7eae-4840-8dfa-f388eea5e0f8.png)
 ![Ahmed Bouhachem - Python](https://user-images.githubusercontent.com/61451186/234987394-3784f9c0-52a8-482b-8fcc-4a37976ca22c.png)
 ![Ahmed Bouhachem - Time Series](https://user-images.githubusercontent.com/61451186/234987395-9728a121-b213-40bb-99bd-53f178267479.png)
-![bitdegree-certificate-1495170](https://user-images.githubusercontent.com/61451186/234987400-676945cf-7461-4b60-9fc0-7aa4e53d44b2.jpeg)
 ![Ahmed Bouhachem - Advanced SQL](https://user-images.githubusercontent.com/61451186/234987403-be972fbe-3e2d-454f-9c89-4c157e9c65dd.png)
 ![Ahmed Bouhachem - Computer Vision](https://user-images.githubusercontent.com/61451186/234987409-793996b2-74ac-4640-bcfc-d3ab50efdd10.png)
 ![Ahmed Bouhachem - Data Cleaning](https://user-images.githubusercontent.com/61451186/234987411-41a5800d-1b6c-4f69-b20f-2d3549b3e687.png)
