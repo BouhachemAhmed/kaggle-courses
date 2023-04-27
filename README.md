@@ -21,6 +21,21 @@
 - [Advanced SQL](#advanced-sql)
 - [Microchallenges](#microchallenges)
 
+![Ahmed Bouhachem - Geospatial Analysis](https://user-images.githubusercontent.com/61451186/234987367-0336a918-f313-42b1-a82b-d2de610b4263.png)
+![Ahmed Bouhachem - Intermediate Machine Learning](https://user-images.githubusercontent.com/61451186/234987371-5ab22ae4-5fda-4793-a9c9-98aee5460c14.png)
+![Ahmed Bouhachem - Intro to AI Ethics](https://user-images.githubusercontent.com/61451186/234987373-7f7f8078-0c8f-466b-8a71-595d40e95bbd.png)
+![Ahmed Bouhachem - Intro to Deep Learning](https://user-images.githubusercontent.com/61451186/234987377-65162171-4023-49aa-a883-187bcef4a0e7.png)
+![Ahmed Bouhachem - Intro to Game AI and Reinforcement Learning](https://user-images.githubusercontent.com/61451186/234987384-983488de-0de2-4d38-9165-f3358c5e2de2.png)
+![Ahmed Bouhachem - Intro to Machine Learning](https://user-images.githubusercontent.com/61451186/234987388-a84d2cde-39d6-4f84-bbe7-4b6f007817f4.png)
+![Ahmed Bouhachem - Intro to SQL](https://user-images.githubusercontent.com/61451186/234987392-43ddf307-8623-4fd6-af4e-5df028296bef.png)
+![Ahmed Bouhachem - Pandas](https://user-images.githubusercontent.com/61451186/234987393-3895c553-7eae-4840-8dfa-f388eea5e0f8.png)
+![Ahmed Bouhachem - Python](https://user-images.githubusercontent.com/61451186/234987394-3784f9c0-52a8-482b-8fcc-4a37976ca22c.png)
+![Ahmed Bouhachem - Time Series](https://user-images.githubusercontent.com/61451186/234987395-9728a121-b213-40bb-99bd-53f178267479.png)
+![bitdegree-certificate-1495170](https://user-images.githubusercontent.com/61451186/234987400-676945cf-7461-4b60-9fc0-7aa4e53d44b2.jpeg)
+![Ahmed Bouhachem - Advanced SQL](https://user-images.githubusercontent.com/61451186/234987403-be972fbe-3e2d-454f-9c89-4c157e9c65dd.png)
+![Ahmed Bouhachem - Computer Vision](https://user-images.githubusercontent.com/61451186/234987409-793996b2-74ac-4640-bcfc-d3ab50efdd10.png)
+![Ahmed Bouhachem - Data Cleaning](https://user-images.githubusercontent.com/61451186/234987411-41a5800d-1b6c-4f69-b20f-2d3549b3e687.png)
+![Ahmed Bouhachem - Data Visualization](https://user-images.githubusercontent.com/61451186/234987413-62a2e85e-26f2-4ea8-be21-7e4eb226b7ed.png)
 
 ## Python
 
